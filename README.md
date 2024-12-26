@@ -29,4 +29,4 @@ This repository showcases my skills in:
      - Invest strategically in promising genres and audience-focused projects.  
      - Strengthen marketing efforts for underperforming but high-potential genres.  
      - Develop more family-friendly films and blockbusters targeting younger audiences.  
-   - [Research Notebook] russian_cinema_analysis.ipynb : Full analysis and visualizations.
+   - [russian_cinema_analysis.ipynb](https://github.com/AlexBronte/data-analysis-projects/blob/e71cb4e6b3d2a23790d45ef3db9f72771bc3dc5c/russian_cinema_analysis.ipynb) : Full analysis and visualizations.
