@@ -29,4 +29,4 @@ This repository showcases my skills in:
      - Invest strategically in promising genres and audience-focused projects.  
      - Strengthen marketing efforts for underperforming but high-potential genres.  
      - Develop more family-friendly films and blockbusters targeting younger audiences.  
-   - [Research Notebook](path-to-your-file.ipynb): Full analysis and visualizations.
+   - [Research Notebook] russian_cinema_analysis.ipynb : Full analysis and visualizations.
